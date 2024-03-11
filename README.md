@@ -5,4 +5,4 @@ Apache: 2.4
 PHP: 7.4
 MySql:  8.0
 Elasticsearch: 7.0
-Composer 2
+Composer 1
